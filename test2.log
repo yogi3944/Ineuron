@@ -1,0 +1,112 @@
+2022-02-19 20:06:29,979 this is my info log
+2022-02-19 20:06:29,979 this is my warning log
+2022-02-19 20:06:29,980 this si my error log
+2022-02-19 20:06:30,321 this is my info log
+2022-02-19 20:06:30,321 this is my warning log
+2022-02-19 20:06:30,322 this si my error log
+2022-02-19 20:06:30,554 this is my info log
+2022-02-19 20:06:30,554 this is my warning log
+2022-02-19 20:06:30,554 this si my error log
+2022-02-19 20:06:30,756 this is my info log
+2022-02-19 20:06:30,756 this is my warning log
+2022-02-19 20:06:30,757 this si my error log
+2022-02-19 20:06:30,943 this is my info log
+2022-02-19 20:06:30,943 this is my warning log
+2022-02-19 20:06:30,943 this si my error log
+2022-02-19 20:06:31,132 this is my info log
+2022-02-19 20:06:31,132 this is my warning log
+2022-02-19 20:06:31,132 this si my error log
+2022-02-19 20:07:03,805 pickle loaded: /Users/yogesh/opt/anaconda3/lib/python3.8/site-packages/jedi/third_party/typeshed/stdlib/2and3/builtins.pyi
+2022-02-19 20:07:03,831 pickle loaded: /Users/yogesh/opt/anaconda3/lib/python3.8/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2022-02-19 20:07:05,263 diff parser start
+2022-02-19 20:07:05,264 line_lengths old: 1; new: 1
+2022-02-19 20:07:05,264 -> code[replace] old[1:1] new[1:1]
+2022-02-19 20:07:05,265 parse_part from 1 to 1 (to 0 in part parser)
+2022-02-19 20:07:05,265 diff parser end
+2022-02-19 20:07:05,677 diff parser start
+2022-02-19 20:07:05,677 line_lengths old: 1; new: 1
+2022-02-19 20:07:05,677 -> code[replace] old[1:1] new[1:1]
+2022-02-19 20:07:05,678 parse_part from 1 to 1 (to 0 in part parser)
+2022-02-19 20:07:05,678 diff parser end
+2022-02-19 20:07:05,815 diff parser start
+2022-02-19 20:07:05,815 line_lengths old: 1; new: 1
+2022-02-19 20:07:05,815 -> code[replace] old[1:1] new[1:1]
+2022-02-19 20:07:05,816 parse_part from 1 to 1 (to 0 in part parser)
+2022-02-19 20:07:05,816 diff parser end
+2022-02-19 20:07:06,390 diff parser start
+2022-02-19 20:07:06,390 line_lengths old: 1; new: 1
+2022-02-19 20:07:06,390 -> code[replace] old[1:1] new[1:1]
+2022-02-19 20:07:06,390 parse_part from 1 to 1 (to 0 in part parser)
+2022-02-19 20:07:06,390 diff parser end
+2022-02-19 20:07:07,727 diff parser start
+2022-02-19 20:07:07,728 line_lengths old: 1; new: 1
+2022-02-19 20:07:07,728 -> code[replace] old[1:1] new[1:1]
+2022-02-19 20:07:07,728 parse_part from 1 to 1 (to 0 in part parser)
+2022-02-19 20:07:07,728 diff parser end
+2022-02-19 20:07:07,754 pickle loaded: /Users/yogesh/opt/anaconda3/lib/python3.8/logging/__init__.py
+2022-02-19 20:07:08,675 diff parser start
+2022-02-19 20:07:08,676 line_lengths old: 1; new: 1
+2022-02-19 20:07:08,676 -> code[replace] old[1:1] new[1:1]
+2022-02-19 20:07:08,676 parse_part from 1 to 1 (to 0 in part parser)
+2022-02-19 20:07:08,676 diff parser end
+2022-02-19 20:07:08,925 diff parser start
+2022-02-19 20:07:08,926 line_lengths old: 1; new: 1
+2022-02-19 20:07:08,926 -> code[replace] old[1:1] new[1:1]
+2022-02-19 20:07:08,926 parse_part from 1 to 1 (to 0 in part parser)
+2022-02-19 20:07:08,926 diff parser end
+2022-02-19 20:07:09,515 diff parser start
+2022-02-19 20:07:09,516 line_lengths old: 1; new: 1
+2022-02-19 20:07:09,516 -> code[replace] old[1:1] new[1:1]
+2022-02-19 20:07:09,516 parse_part from 1 to 1 (to 0 in part parser)
+2022-02-19 20:07:09,516 diff parser end
+2022-02-19 20:07:40,503 diff parser start
+2022-02-19 20:07:40,503 line_lengths old: 1; new: 2
+2022-02-19 20:07:40,503 -> code[replace] old[1:1] new[1:2]
+2022-02-19 20:07:40,504 parse_part from 1 to 2 (to 1 in part parser)
+2022-02-19 20:07:40,504 diff parser end
+2022-02-19 20:07:56,194 diff parser start
+2022-02-19 20:07:56,195 line_lengths old: 2; new: 3
+2022-02-19 20:07:56,195 -> code[equal] old[1:1] new[1:1]
+2022-02-19 20:07:56,195 copy old[1:1] new[1:1]
+2022-02-19 20:07:56,195 -> code[replace] old[2:2] new[2:3]
+2022-02-19 20:07:56,196 parse_part from 2 to 3 (to 2 in part parser)
+2022-02-19 20:07:56,196 diff parser end
+2022-02-19 20:07:58,534 diff parser start
+2022-02-19 20:07:58,534 line_lengths old: 3; new: 3
+2022-02-19 20:07:58,535 -> code[equal] old[1:2] new[1:2]
+2022-02-19 20:07:58,535 copy old[1:2] new[1:2]
+2022-02-19 20:07:58,535 -> code[replace] old[3:3] new[3:3]
+2022-02-19 20:07:58,535 parse_part from 3 to 3 (to 2 in part parser)
+2022-02-19 20:07:58,535 diff parser end
+2022-02-19 20:08:17,540 this is my info log
+2022-02-19 20:08:17,541 this is my warning log
+2022-02-19 20:08:17,541 this is my debug log
+2022-02-19 20:10:38,537 diff parser start
+2022-02-19 20:10:38,537 line_lengths old: 3; new: 1
+2022-02-19 20:10:38,537 -> code[replace] old[1:3] new[1:1]
+2022-02-19 20:10:38,539 parse_part from 1 to 1 (to 0 in part parser)
+2022-02-19 20:10:38,539 diff parser end
+2022-02-19 20:10:45,232 this is my info log
+2022-02-19 20:10:45,232 this is my warning log
+2022-02-19 20:10:45,233 this is my debug log
+2022-02-19 20:10:46,764 this is my info log
+2022-02-19 20:10:46,764 this is my warning log
+2022-02-19 20:10:46,765 this is my debug log
+2022-02-19 20:11:20,063 INFO this is my info log
+2022-02-19 20:11:20,064 WARNING this is my warning log
+2022-02-19 20:11:20,064 DEBUG this is my debug log
+2022-02-19 20:11:55,078 DEBUG pickle loaded: /Users/yogesh/opt/anaconda3/lib/python3.8/logging/__init__.py
+2022-02-19 20:11:56,163 DEBUG diff parser start
+2022-02-19 20:11:56,164 DEBUG line_lengths old: 1; new: 1
+2022-02-19 20:11:56,164 DEBUG -> code[replace] old[1:1] new[1:1]
+2022-02-19 20:11:56,165 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2022-02-19 20:11:56,165 DEBUG diff parser end
+2022-02-19 20:19:45,822 DEBUG diff parser start
+2022-02-19 20:19:45,823 DEBUG line_lengths old: 1; new: 4
+2022-02-19 20:19:45,824 DEBUG -> code[replace] old[1:1] new[1:4]
+2022-02-19 20:19:45,826 DEBUG parse_part from 1 to 4 (to 3 in part parser)
+2022-02-19 20:19:45,826 DEBUG diff parser end
+2022-02-19 20:20:33,882 INFO this is my info log
+2022-02-19 20:20:33,883 WARNING this is my warning log
+2022-02-19 20:20:33,884 DEBUG this is my debug log
+2022-02-19 20:20:33,884 ERROR this is my error log

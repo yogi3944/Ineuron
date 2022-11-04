@@ -1,0 +1,51 @@
+2022-02-19 20:22:40,021 DEBUG pickle loaded: /Users/yogesh/opt/anaconda3/lib/python3.8/logging/__init__.py
+2022-02-19 20:24:32,772 DEBUG diff parser start
+2022-02-19 20:24:32,772 DEBUG line_lengths old: 2; new: 6
+2022-02-19 20:24:32,772 DEBUG -> code[equal] old[1:1] new[1:1]
+2022-02-19 20:24:32,774 DEBUG parse_part from 1 to 6 (to 5 in part parser)
+2022-02-19 20:24:32,774 DEBUG -> code[replace] old[2:2] new[2:6]
+2022-02-19 20:24:32,775 DEBUG diff parser end
+2022-02-19 20:24:32,828 DEBUG pickle loaded: /Users/yogesh/opt/anaconda3/lib/python3.8/site-packages/jedi/third_party/typeshed/stdlib/2and3/builtins.pyi
+2022-02-19 20:24:32,859 DEBUG pickle loaded: /Users/yogesh/opt/anaconda3/lib/python3.8/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2022-02-19 20:24:56,053 DEBUG diff parser start
+2022-02-19 20:24:56,053 DEBUG line_lengths old: 6; new: 7
+2022-02-19 20:24:56,053 DEBUG -> code[equal] old[1:5] new[1:5]
+2022-02-19 20:24:56,053 DEBUG copy old[1:5] new[1:2]
+2022-02-19 20:24:56,055 DEBUG parse_part from 3 to 7 (to 6 in part parser)
+2022-02-19 20:24:56,055 DEBUG -> code[replace] old[6:6] new[6:7]
+2022-02-19 20:24:56,055 DEBUG diff parser end
+2022-02-19 20:24:58,639 DEBUG diff parser start
+2022-02-19 20:24:58,639 DEBUG line_lengths old: 7; new: 7
+2022-02-19 20:24:58,639 DEBUG -> code[equal] old[1:6] new[1:6]
+2022-02-19 20:24:58,640 DEBUG copy old[1:6] new[1:2]
+2022-02-19 20:24:58,641 DEBUG parse_part from 3 to 7 (to 6 in part parser)
+2022-02-19 20:24:58,641 DEBUG -> code[replace] old[7:7] new[7:7]
+2022-02-19 20:24:58,642 DEBUG diff parser end
+2022-02-19 20:25:11,465 DEBUG diff parser start
+2022-02-19 20:25:11,465 DEBUG line_lengths old: 7; new: 8
+2022-02-19 20:25:11,465 DEBUG -> code[equal] old[1:6] new[1:6]
+2022-02-19 20:25:11,466 DEBUG copy old[1:6] new[1:2]
+2022-02-19 20:25:11,467 DEBUG parse_part from 3 to 8 (to 7 in part parser)
+2022-02-19 20:25:11,467 DEBUG -> code[replace] old[7:7] new[7:8]
+2022-02-19 20:25:11,468 DEBUG diff parser end
+2022-02-19 20:25:13,997 DEBUG diff parser start
+2022-02-19 20:25:13,997 DEBUG line_lengths old: 8; new: 8
+2022-02-19 20:25:13,998 DEBUG -> code[equal] old[1:7] new[1:7]
+2022-02-19 20:25:13,998 DEBUG copy old[1:7] new[1:2]
+2022-02-19 20:25:14,001 DEBUG parse_part from 3 to 8 (to 7 in part parser)
+2022-02-19 20:25:14,001 DEBUG -> code[replace] old[8:8] new[8:8]
+2022-02-19 20:25:14,001 DEBUG diff parser end
+2022-02-19 20:25:51,147 DEBUG diff parser start
+2022-02-19 20:25:51,148 DEBUG line_lengths old: 8; new: 1
+2022-02-19 20:25:51,148 DEBUG -> code[replace] old[1:8] new[1:1]
+2022-02-19 20:25:51,148 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2022-02-19 20:25:51,148 DEBUG diff parser end
+2022-02-19 20:25:56,264 INFO This is a start of my code and I am try to enter 4 and 5
+2022-02-19 20:25:56,264 INFO executed successfully
+2022-02-19 20:28:32,174 INFO This is a start of my code and I am try to enter 4 and 0
+2022-02-19 20:28:32,174 ERROR Error has happened
+2022-02-19 20:28:32,175 ERROR Exception occureddivision by zero
+Traceback (most recent call last):
+  File "<ipython-input-3-f0b18ef9a1d3>", line 4, in divbyzero
+    div = a/b
+ZeroDivisionError: division by zero

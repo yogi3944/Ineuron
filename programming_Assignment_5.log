@@ -1,0 +1,99 @@
+2022-03-01 16:00:25,948 INFO entered first number successfully: 4
+2022-03-01 16:00:29,414 INFO entered second number successfully: 12345
+2022-03-01 16:00:29,420 INFO LCM of 4 and 12345 is 49380
+2022-03-01 16:05:59,062 INFO entered first number successfully: 3
+2022-03-01 16:06:00,653 INFO entered second number successfully: 5
+2022-03-01 16:06:00,654 INFO LCM of 3 and 5 is None
+2022-03-01 16:06:33,566 INFO entered first number successfully: 4
+2022-03-01 16:06:35,242 INFO entered second number successfully: 6
+2022-03-01 16:06:35,242 INFO HCF of 4 and 6 is None
+2022-03-01 16:07:09,156 INFO entered first number successfully: 4
+2022-03-01 16:07:11,532 INFO entered second number successfully: 6
+2022-03-01 16:07:11,532 INFO HCF of 4 and 6 is 1
+2022-03-01 16:07:27,430 INFO entered first number successfully: 54
+2022-03-01 16:07:30,460 INFO entered second number successfully: 24
+2022-03-01 16:07:30,460 INFO HCF of 54 and 24 is 1
+2022-03-01 16:08:18,522 INFO entered first number successfully: 54
+2022-03-01 16:08:20,954 INFO entered second number successfully: 24
+2022-03-01 16:08:20,954 INFO HCF of 54 and 24 is 6
+2022-03-01 16:08:34,915 INFO entered first number successfully: 24
+2022-03-01 16:08:38,181 INFO entered second number successfully: 54
+2022-03-01 16:09:05,103 INFO HCF of 24 and 54 is 6
+2022-03-01 16:09:16,586 INFO entered first number successfully: 54
+2022-03-01 16:09:18,496 INFO entered second number successfully: 24
+2022-03-01 16:12:06,748 INFO HCF of 54 and 24 is 6
+2022-03-01 16:26:11,760 INFO entered number to convert Decimal to Binary, Octal and Hexadecimal successfully: 24
+2022-03-01 16:26:11,762 INFO Decimal 24 to Binary is : 0b11000, Octal is : 030 and Hexadecimal is : 0x18
+2022-03-01 16:27:08,080 INFO entered number to convert Decimal to Binary, Octal and Hexadecimal successfully: 24
+2022-03-01 16:27:08,081 INFO Decimal 24 to Binary is : 0b11000, Octal is : 030 and Hexadecimal is : 0x18
+2022-03-01 16:27:23,361 INFO entered number to convert Decimal to Binary, Octal and Hexadecimal successfully: 69055069099605
+2022-03-01 16:27:23,362 INFO Decimal 69055069099605 to Binary is : 0b1111101100111000100010110111010001011001010101, Octal is : 01754704267213125 and Hexadecimal is : 0x3ece22dd1655
+2022-03-01 16:27:34,641 ERROR Error has happened
+2022-03-01 16:27:40,230 ERROR Error has happened
+2022-03-01 16:27:42,674 INFO entered number to convert Decimal to Binary, Octal and Hexadecimal successfully: 34343
+2022-03-01 16:27:42,675 INFO Decimal 34343 to Binary is : 0b1000011000100111, Octal is : 0103047 and Hexadecimal is : 0x8627
+2022-03-01 16:42:37,763 ERROR Error has happened
+2022-03-01 16:42:45,906 ERROR Error has happened
+2022-03-01 16:42:47,941 ERROR Error has happened
+2022-03-01 16:42:50,381 ERROR Error has happened
+2022-03-01 16:42:58,487 ERROR Error has happened
+2022-03-01 16:43:23,559 ERROR Error has happened
+2022-03-01 16:43:30,256 ERROR Error has happened
+2022-03-01 16:43:32,782 ERROR Error has happened
+2022-03-01 16:44:30,073 ERROR Error has happened
+2022-03-01 16:44:33,426 ERROR Error has happened
+2022-03-01 16:48:54,498 ERROR Error has happened
+2022-03-01 16:48:56,533 ERROR Error has happened
+2022-03-01 16:49:02,758 INFO Entered character to convert to ASCII value successfully: 3
+2022-03-01 16:49:02,759 INFO Character 3 to ASCII is : 51
+2022-03-01 16:49:36,757 INFO Entered character to convert to ASCII value successfully: 5
+2022-03-01 16:49:36,758 INFO Character 5 to ASCII is : 53
+2022-03-01 16:49:46,635 ERROR Error has happened
+2022-03-01 16:50:36,437 ERROR Error has happened
+2022-03-01 16:55:53,680 INFO Entered character to convert to ASCII value successfully: d
+2022-03-01 16:55:53,681 INFO Character d to ASCII is : 100
+2022-03-01 16:56:02,866 INFO Entered character to convert to ASCII value successfully: 3
+2022-03-01 16:56:02,866 INFO Character 3 to ASCII is : 51
+2022-03-01 16:56:54,041 INFO Entered character to convert to ASCII value successfully: e
+2022-03-01 16:56:54,044 INFO Character e to ASCII is : 101
+2022-03-01 17:16:20,790 INFO Entered first number successfully: 12
+2022-03-01 17:16:22,652 INFO Entered second number successfully: 23
+2022-03-01 17:17:15,531 ERROR Error has happened
+2022-03-01 17:30:02,025 INFO Entered first number successfully: 12
+2022-03-01 17:30:04,259 INFO Entered second number successfully: 3
+2022-03-01 17:30:24,441 INFO Entered first number successfully: 12
+2022-03-01 17:30:26,402 INFO Entered second number successfully: 3
+2022-03-01 17:30:29,645 INFO Entered operation successfully: 1
+2022-03-01 17:30:29,645 INFO Addition of 12 and 3 is 15
+2022-03-01 17:30:36,467 INFO Entered first number successfully: 12
+2022-03-01 17:30:37,794 INFO Entered second number successfully: 3
+2022-03-01 17:30:40,317 INFO Entered operation successfully: 2
+2022-03-01 17:30:40,317 INFO Subtraction of 12 and 3 is 15
+2022-03-01 17:31:18,262 INFO Entered first number successfully: 12
+2022-03-01 17:31:19,370 INFO Entered second number successfully: 3
+2022-03-01 17:31:20,967 INFO Entered operation successfully: 2
+2022-03-01 17:31:20,967 INFO Subtraction of 12 and 3 is 9
+2022-03-01 17:31:27,261 INFO Entered first number successfully: 11
+2022-03-01 17:31:28,534 INFO Entered second number successfully: 3
+2022-03-01 17:31:30,173 INFO Entered operation successfully: 3
+2022-03-01 17:31:30,173 INFO Multiplication of 11 and 3 is 33
+2022-03-01 17:31:37,779 INFO Entered first number successfully: 15
+2022-03-01 17:31:40,383 INFO Entered second number successfully: 5
+2022-03-01 17:31:42,675 INFO Entered operation successfully: 4
+2022-03-01 17:31:42,675 INFO Division of 15 and 5 is 3
+2022-03-01 17:31:49,614 ERROR Error has happened
+2022-03-01 17:31:52,447 INFO Entered first number successfully: 15
+2022-03-01 17:31:56,773 INFO Entered second number successfully: 5
+2022-03-01 17:31:58,394 INFO Entered operation successfully: 5
+2022-03-01 17:31:58,395 INFO Operation is not selected between 1,2,3 and 4
+2022-03-01 17:39:12,501 INFO Entered first number successfully: 12
+2022-03-01 17:39:14,437 INFO Entered second number successfully: 5
+2022-03-01 17:39:16,038 INFO Entered operation successfully: 5
+2022-03-01 17:39:16,039 INFO Operation is not selected between 1,2,3 and 4
+2022-03-01 17:39:21,060 ERROR Error has happened
+2022-03-01 17:39:25,305 INFO Entered operation successfully: 3
+2022-03-01 17:39:25,305 INFO Multiplication of 12 and 5 is 60
+2022-11-04 15:51:47,337 INFO Entered first number successfully: 2
+2022-11-04 15:51:48,300 INFO Entered second number successfully: 3
+2022-11-04 15:51:53,707 INFO Entered operation successfully: 1
+2022-11-04 15:51:53,707 INFO Addition of 2 and 3 is 5
